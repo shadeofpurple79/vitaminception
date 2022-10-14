@@ -19,11 +19,71 @@ h1 h2 {
     letter-spacing: 3px;
 }
 
-#logo {
-    
+/* menu styling */
+#menu {
+    text-align: right;
+    font-size: 120%;
+    letter-spacing: 3px;
 }
 
-#menu {
-    
+#menu, #logo {
+    line-height: 200px;
+}
+
+#menu a{
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #2f4f4f;
+}
+
+.active {
+    border-bottom: 1px solid #2f4f4f;
+}
+
+#logo {
+    float: left;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    list-style: none;
+    margin-right: 30px;
+}
+
+/* hero image overlay text styling */
+#hero-text, #hero-text h2 {
+    color: #ffffff;
+}
+
+/* hero image styling  */ 
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#hero-image {
+    background: url(../images/vitamin-wall-courtesy-ivcinc.webp) no-repeat center center;
+    height: 600px;
+    width: 100%;
+}
+
+#hero-text {
+    font-size: 150%;   
+    font-family: roboto condensed, sans-serif;
+    height: 100px;
+    width: 300px;
+    background-color: rgba(236, 236, 236, 0.5);
+    text-transform: capitalize;
+    padding-top: 30px;
+    padding-left: 100px;
+    bottom: 250px;
+    right: 400px;
+    position: absolute;
 }
 
