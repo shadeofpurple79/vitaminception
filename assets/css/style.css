@@ -21,22 +21,15 @@ h1 h2 {
 
 /* menu styling */
 #menu {
-    text-align: right;
+    text-align: center;
     font-size: 120%;
     letter-spacing: 3px;
 }
 
-#menu, #logo {
-    line-height: 200px;
-}
-
-#menu a{
+/* menu remove hyperlinks underline */
+#menu a {
     text-decoration: none;
     color: inherit;
-}
-
-#menu a:hover {
-    border-bottom: 1px solid #2f4f4f;
 }
 
 .active {
@@ -45,13 +38,14 @@ h1 h2 {
 
 #logo {
     float: left;
+    width: 50%;
 }
 
 #menu li {
-    float: right;
+    /*float: right;*/
     list-style-type: none;
     list-style: none;
-    margin-right: 30px;
+    /*margin-right: 30px;*/
 }
 
 /* hero image overlay text styling */
@@ -65,25 +59,72 @@ h1 h2 {
     width: 100%;
     overflow: hidden;
     position: relative;
-}
+} 
 
 #hero-image {
-    background: url(../images/vitamin-wall-courtesy-ivcinc.webp) no-repeat center center;
-    height: 600px;
-    width: 100%;
+    background: url(../images/vitaminception-main.png) no-repeat center center;
+    max-width: 100%;
+    display: block;
+    height: 200px;
 }
 
 #hero-text {
-    font-size: 150%;   
+    font-size: 120%;   
     font-family: roboto condensed, sans-serif;
     height: 100px;
-    width: 300px;
+    width: 100%;
     background-color: rgba(236, 236, 236, 0.5);
     text-transform: capitalize;
-    padding-top: 30px;
+    /*padding-top: 30px;
     padding-left: 100px;
     bottom: 250px;
-    right: 400px;
+    right: 400px; */
     position: absolute;
 }
 
+/* desktop view styling */
+@media (min-width: 600px) {
+    #menu, #logo {
+        line-height: 200px;
+    }
+    #menu a:hover {
+        border-bottom: 1px solid #2f4f4f;
+    }
+    #logo {
+        float: left;
+        width="100" 
+        height="100"
+    }
+    #menu li {
+        float: right;
+        list-style-type: none;
+        list-style: none;
+        margin-right: 30px;
+    }
+
+    #hero-outer {
+        height: 600px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+    } 
+
+    #hero-image {
+        height: 400px;
+        width: 100%;
+    }
+
+    #hero-text {
+        font-size: 150%;   
+        font-family: roboto condensed, sans-serif;
+        height: 100px;
+        width: 300px;
+        background-color: rgba(236, 236, 236, 0.5);
+        text-transform: capitalize;
+        padding-top: 30px;
+        padding-left: 100px;
+        bottom: 250px;
+        right: 400px;
+        position: absolute;
+    }
+}
