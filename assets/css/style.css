@@ -52,13 +52,6 @@ img {
 }
 
 /* hero image styling  */ 
-#hero-outer {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-} 
-
 #hero-image {
     background: url(../images/vitaminception-main.png) no-repeat center center;
     max-width: 100%;
@@ -69,25 +62,65 @@ img {
 #hero-text {
     font-size: 120%;   
     font-family: roboto condensed, sans-serif;
-    height: 100px;
-    width: 100%;
-    background-color: rgba(236, 236, 236, 0.5);
+    height: 75px;
+    width: 50%;
+    background-color: rgba(155, 152, 152, 0.7);
     text-transform: capitalize;
-    /*padding-top: 30px;
-    padding-left: 100px;
-    bottom: 250px;
-    right: 400px; */
-    position: absolute;
+    padding-top: 5px;
+    padding-left: 20px;
+    bottom: 1px;
+    right: 10px; 
+    position:absolute;
+}
+
+#vitamin-circle-container {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto; 
+}
+
+#vitamin-circle-cover-bg {
+    background: url('../images/pexels-anastasia-tooming-11105320.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#vitamin-stats > h2 {
+    text-align: center;
+}
+
+#vitamin-stats li {
+    text-align: center;
+}
+
+footer {
+    height: 150px;
+}
+
+#social-networks {
+    text-align: center;
 }
 
 #social-networks li {
     list-style-type: none;
-    list-style: none;
+    list-style: none;    
 }
 
-#social-networks a {
+#social-networks li > a {
     text-decoration: none;
     color: inherit;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
 }
 
 /* desktop view styling */
