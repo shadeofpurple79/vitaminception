@@ -87,6 +87,9 @@ img {
 #vitamin-circle-cover-bg {
     background: url('../images/pexels-anastasia-tooming-11105320.jpg') no-repeat center center;
     height: 100%;
+    background-size: contain;
+    max-width: 100%;
+    display: block;
     border-radius: 50%;
 }
 
@@ -96,6 +99,7 @@ img {
 
 #vitamin-stats li {
     text-align: center;
+    line-height: 30px;
 }
 
 footer {
