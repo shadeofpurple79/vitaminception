@@ -73,7 +73,7 @@ img {
     position:absolute;
 }
 
-#vitamin-circle-container {
+#vitamin-stats-container {
     width: 200px;
     height: 200px;
     padding: 10px;
@@ -84,7 +84,7 @@ img {
     margin: 0 auto; 
 }
 
-#vitamin-circle-cover-bg {
+#vitamin-stats-cover-bg {
     background: url('../images/pexels-anastasia-tooming-11105320.jpg') no-repeat center center;
     height: 100%;
     background-size: contain;
@@ -100,6 +100,46 @@ img {
 #vitamin-stats li {
     text-align: center;
     line-height: 30px;
+}
+
+#vitamin-why-container {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto; 
+}
+
+#vitamin-why-cover-bg {
+    background: url('../images/pexels-ian-turnell-709567.jpg') no-repeat center center;
+    height: 100%;
+    background-size: contain;
+    max-width: 100%;
+    display: block;
+    border-radius: 50%;
+}
+
+#vitamin-what-container {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto; 
+}
+
+#vitamin-what-cover-bg {
+    background: url('../images/pexels-digital-buggu-171198.jpg') no-repeat center center;
+    height: 100%;
+    background-size: contain;
+    max-width: 100%;
+    display: block;
+    border-radius: 50%;
 }
 
 footer {
