@@ -224,6 +224,219 @@ a {
     padding-bottom: 10px;
 }
 
+/* vitaminC descr section styling */ 
+#vitaminc-descr-container {
+    width: 200px;
+    height: 200px;
+    padding: 3px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto; 
+}
+
+#vitaminc-descr-cover-bg {
+    background: url('../images/too-many-vitamins.jpg') no-repeat center center;
+    width: auto;
+    height: 100%;
+    background-size: contain;
+    border-radius: 50%;
+}
+
+#vitaminc-descr > h2 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* vitaminC sources section styling */ 
+#vitaminc-sources-container {
+    width: 200px;
+    height: 200px;
+    padding: 3px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto; 
+}
+
+#vitaminc-sources-cover-bg {
+    background: url('../images/too-many-vitamins.jpg') no-repeat center center;
+    width: auto;
+    height: 100%;
+    background-size: contain;
+    border-radius: 50%;
+}
+
+#vitaminc-sources > h2 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+/* vitaminC info section styling */ 
+#vitaminc-info-container {
+    width: 200px;
+    height: 200px;
+    padding: 3px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto; 
+}
+
+#vitaminc-info-cover-bg {
+    background: url('../images/too-many-vitamins.jpg') no-repeat center center;
+    width: auto;
+    height: 100%;
+    background-size: contain;
+    border-radius: 50%;
+}
+
+#vitaminc-info > h2 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+/* vitaminC shop section styling */ 
+#vitaminc-shop-container {
+    width: 200px;
+    height: 200px;
+    padding: 3px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto; 
+}
+
+#vitaminc-shop-cover-bg {
+    background: url('../images/too-many-vitamins.jpg') no-repeat center center;
+    width: auto;
+    height: 100%;
+    background-size: contain;
+    border-radius: 50%;
+}
+
+#vitaminc-shop > h2 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* vitaminD descr section styling */ 
+#vitamind-descr-container {
+    width: 200px;
+    height: 200px;
+    padding: 3px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto; 
+}
+
+#vitamind-descr-cover-bg {
+    background: url('../images/too-many-vitamins.jpg') no-repeat center center;
+    width: auto;
+    height: 100%;
+    background-size: contain;
+    border-radius: 50%;
+}
+
+#vitamind-descr > h2 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* vitaminD sources section styling */ 
+#vitamind-sources-container {
+    width: 200px;
+    height: 200px;
+    padding: 3px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto; 
+}
+
+#vitamind-sources-cover-bg {
+    background: url('../images/too-many-vitamins.jpg') no-repeat center center;
+    width: auto;
+    height: 100%;
+    background-size: contain;
+    border-radius: 50%;
+}
+
+#vitamind-sources > h2 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+/* vitaminD info section styling */ 
+#vitamind-info-container {
+    width: 200px;
+    height: 200px;
+    padding: 3px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto; 
+}
+
+#vitamind-info-cover-bg {
+    background: url('../images/too-many-vitamins.jpg') no-repeat center center;
+    width: auto;
+    height: 100%;
+    background-size: contain;
+    border-radius: 50%;
+}
+
+#vitamind-info > h2 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+/* vitaminD shop section styling */ 
+#vitamind-shop-container {
+    width: 200px;
+    height: 200px;
+    padding: 3px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto; 
+}
+
+#vitamind-shop-cover-bg {
+    background: url('../images/too-many-vitamins.jpg') no-repeat center center;
+    width: auto;
+    height: 100%;
+    background-size: contain;
+    border-radius: 50%;
+}
+
+#vitamind-shop > h2 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
 /* footer styling */
 footer {
     height: 150px;
