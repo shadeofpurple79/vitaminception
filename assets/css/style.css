@@ -34,10 +34,6 @@ a {
     color: inherit;
 }
 
-a:hover {
-    border-bottom: 1px solid #3a3a3a;
-}
-
 /* menu styling */
 #menu {
     text-align: center;
@@ -228,18 +224,16 @@ a:hover {
     padding-bottom: 10px;
 }
 
-
-
-
 /* footer styling */
 footer {
     height: 150px;
+    text-align: center;
 }
 
-/* Rounded border */
-hr.rounded {
-    border-top: 8px solid #bbb;
-    border-radius: 5px;
+/* Solid border */
+hr.solid {
+    padding-top: 20px;
+    border-top: 3px solid #bbb;
   }
 
 #social-networks {
