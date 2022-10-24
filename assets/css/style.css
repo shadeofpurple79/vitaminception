@@ -224,6 +224,14 @@ a {
     padding-bottom: 10px;
 }
 
+/* vitamin C hero image styling  */ 
+#vitaminc-hero-image {
+    background: url(../images/pexels-lukas-1414134.jpg) no-repeat center center;
+    max-width: 100%;
+    display: block;
+    height: 200px;
+}
+
 /* vitaminC descr section styling */ 
 #vitaminc-descr-container {
     width: 200px;
@@ -328,6 +336,14 @@ a {
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+/* vitamin D hero image styling  */ 
+#vitamind-hero-image {
+    background: url(../images/pexels-garon-piceli-852793.jpg) no-repeat center center;
+    max-width: 100%;
+    display: block;
+    height: 200px;
 }
 
 /* vitaminD descr section styling */ 
