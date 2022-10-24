@@ -245,7 +245,7 @@ a {
 }
 
 #vitaminc-descr-cover-bg {
-    background: url('../images/too-many-vitamins.jpg') no-repeat center center;
+    background: url('../images/pexels-photomix-company-96620.jpg') no-repeat center center;
     width: auto;
     height: 100%;
     background-size: contain;
@@ -259,31 +259,15 @@ a {
 }
 
 /* vitaminC sources section styling */ 
-#vitaminc-sources-container {
-    width: 200px;
-    height: 200px;
-    padding: 3px;
-    border-style: solid;
-    border-color: #ccc;
-    border-width: 1px;
-    border-radius: 50%;
-    margin: 0 auto; 
-}
-
-#vitaminc-sources-cover-bg {
-    background: url('../images/too-many-vitamins.jpg') no-repeat center center;
-    width: auto;
-    height: 100%;
-    background-size: contain;
-    border-radius: 50%;
-}
-
 #vitaminc-sources > h2 {
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
+#vitaminc-sources-graphic {
+
+}
 
 /* vitaminC info section styling */ 
 #vitaminc-info-container {
