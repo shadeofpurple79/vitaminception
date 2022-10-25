@@ -19,6 +19,12 @@ h1 h2 {
     letter-spacing: 3px;
 }
 
+h2 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+} 
+
 p {
     font-family: roboto, sans-serif;
     padding: 10px;
@@ -41,12 +47,6 @@ a {
     letter-spacing: 3px;
 }
 
-/* menu remove hyperlinks underline */
-#menu a {
-    text-decoration: none;
-    color: inherit;
-}
-
 /* menu clicked link */
 .active {
     border-bottom: 1px solid #2f4f4f;
@@ -57,11 +57,6 @@ a {
     margin-bottom: 10px;
     list-style-type: none;
     list-style: none;
-}
-
-/* hero image overlay text styling */
-#hero-text, #hero-text h2 {
-    color: #2f4f4f;
 }
 
 /* hero image styling  */ 
@@ -109,12 +104,6 @@ a {
     padding-bottom: 10px;
 }
 
-#vitamin-stats > h2 {
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
 #vitamin-stats li {
     text-align: center;
     line-height: 30px;
@@ -140,12 +129,6 @@ a {
     border-radius: 50%;
 }
 
-#vitamin-why > h2 {
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
 /* what content section styling */ 
 #vitamin-what-container {
     width: 200px;
@@ -164,12 +147,6 @@ a {
     height: 100%;
     background-size: contain;
     border-radius: 50%;
-}
-
-#vitamin-what > h2 {
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 
 /* animals content section styling */ 
@@ -192,12 +169,6 @@ a {
     border-radius: 50%;
 }
 
-#vitamin-animals > h2 {
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
 /* begin content section styling */ 
 #vitamin-begin-container {
     width: 200px;
@@ -216,12 +187,6 @@ a {
     height: 100%;
     background-size: contain;
     border-radius: 50%;
-}
-
-#vitamin-begin > h2 {
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 
 /* vitamin C hero image styling  */ 
@@ -252,19 +217,7 @@ a {
     border-radius: 50%;
 }
 
-#vitaminc-descr > h2 {
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
 /* vitaminC sources section styling */ 
-#vitaminc-sources > h2 {
-    text-align: center; /* why is not centered? */
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
 #vitaminc-sources > a {
     text-align: center; 
     font-style: italic;
@@ -283,14 +236,6 @@ a {
     margin-right: auto;
 }
 
-/* vitaminC info section styling */ 
-#vitaminc-info > h2 {
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-
 /* vitaminC shop section styling */ 
 #vitaminc-shop > h2 {
     text-align: center;
@@ -298,81 +243,6 @@ a {
     padding-bottom: 10px;
 }
 
-/* vitamin D hero image styling  */ 
-#vitamind-hero-image {
-    background: url(../images/pexels-garon-piceli-852793.jpg) no-repeat center center;
-    max-width: 100%;
-    display: block;
-    height: 200px;
-}
-
-/* vitaminD descr section styling */ 
-#vitamind-descr-container {
-    width: 200px;
-    height: 200px;
-    padding: 3px;
-    border-style: solid;
-    border-color: #ccc;
-    border-width: 1px;
-    border-radius: 50%;
-    margin: 0 auto; 
-}
-
-#vitamind-descr-cover-bg {
-    background: url('../images/too-many-vitamins.jpg') no-repeat center center;
-    width: auto;
-    height: 100%;
-    background-size: contain;
-    border-radius: 50%;
-}
-
-#vitamind-descr > h2 {
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-/* vitaminD sources section styling */ 
-#vitamind-sources-container {
-    width: 200px;
-    height: 200px;
-    padding: 3px;
-    border-style: solid;
-    border-color: #ccc;
-    border-width: 1px;
-    border-radius: 50%;
-    margin: 0 auto; 
-}
-
-#vitamind-sources-cover-bg {
-    background: url('../images/too-many-vitamins.jpg') no-repeat center center;
-    width: auto;
-    height: 100%;
-    background-size: contain;
-    border-radius: 50%;
-}
-
-#vitamind-sources > h2 {
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-
-/* vitaminD info section styling */ 
-#vitamind-info > h2 {
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-
-/* vitaminD shop section styling */ 
-#vitamind-shop > h2 {
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
 
 
 /* footer styling */
