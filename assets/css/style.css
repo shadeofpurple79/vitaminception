@@ -260,9 +260,15 @@ a {
 
 /* vitaminC sources section styling */ 
 #vitaminc-sources > h2 {
-    text-align: center;
+    text-align: center; /* why is not centered? */
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+#vitaminc-sources > a {
+    text-align: center; 
+    font-style: italic;
+    font-size: small;
 }
 
 #vitaminc-sources-graphic {
@@ -278,25 +284,6 @@ a {
 }
 
 /* vitaminC info section styling */ 
-#vitaminc-info-container {
-    width: 200px;
-    height: 200px;
-    padding: 3px;
-    border-style: solid;
-    border-color: #ccc;
-    border-width: 1px;
-    border-radius: 50%;
-    margin: 0 auto; 
-}
-
-#vitaminc-info-cover-bg {
-    background: url('../images/too-many-vitamins.jpg') no-repeat center center;
-    width: auto;
-    height: 100%;
-    background-size: contain;
-    border-radius: 50%;
-}
-
 #vitaminc-info > h2 {
     text-align: center;
     padding-top: 10px;
@@ -305,25 +292,6 @@ a {
 
 
 /* vitaminC shop section styling */ 
-#vitaminc-shop-container {
-    width: 200px;
-    height: 200px;
-    padding: 3px;
-    border-style: solid;
-    border-color: #ccc;
-    border-width: 1px;
-    border-radius: 50%;
-    margin: 0 auto; 
-}
-
-#vitaminc-shop-cover-bg {
-    background: url('../images/too-many-vitamins.jpg') no-repeat center center;
-    width: auto;
-    height: 100%;
-    background-size: contain;
-    border-radius: 50%;
-}
-
 #vitaminc-shop > h2 {
     text-align: center;
     padding-top: 10px;
@@ -392,25 +360,6 @@ a {
 
 
 /* vitaminD info section styling */ 
-#vitamind-info-container {
-    width: 200px;
-    height: 200px;
-    padding: 3px;
-    border-style: solid;
-    border-color: #ccc;
-    border-width: 1px;
-    border-radius: 50%;
-    margin: 0 auto; 
-}
-
-#vitamind-info-cover-bg {
-    background: url('../images/too-many-vitamins.jpg') no-repeat center center;
-    width: auto;
-    height: 100%;
-    background-size: contain;
-    border-radius: 50%;
-}
-
 #vitamind-info > h2 {
     text-align: center;
     padding-top: 10px;
@@ -419,25 +368,6 @@ a {
 
 
 /* vitaminD shop section styling */ 
-#vitamind-shop-container {
-    width: 200px;
-    height: 200px;
-    padding: 3px;
-    border-style: solid;
-    border-color: #ccc;
-    border-width: 1px;
-    border-radius: 50%;
-    margin: 0 auto; 
-}
-
-#vitamind-shop-cover-bg {
-    background: url('../images/too-many-vitamins.jpg') no-repeat center center;
-    width: auto;
-    height: 100%;
-    background-size: contain;
-    border-radius: 50%;
-}
-
 #vitamind-shop > h2 {
     text-align: center;
     padding-top: 10px;
