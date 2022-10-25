@@ -266,7 +266,15 @@ a {
 }
 
 #vitaminc-sources-graphic {
-
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    width: 80%;
+    max-width: 564px; 
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* vitaminC info section styling */ 
