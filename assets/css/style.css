@@ -366,7 +366,8 @@ hr.solid {
 
 /* desktop view styling */
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 600px) 
+{
     
     /* logo and menu links */
 
@@ -421,7 +422,7 @@ hr.solid {
         overflow: hidden;
     }
 
-    /* Main body content styling, image & text in-line */
+    /* Main body content styling in blocks */
 
     #vitamin-stats {
         margin-top: 10px;
@@ -434,17 +435,18 @@ hr.solid {
     }
 
     #vitamin-stats-container {
-    
+        
     }
 
     #vitamin-stats-text {
-        
+        width: 500px;
     }
 
     #vitamin-why {
         margin-top: 10px;
         width: 50%;
         float: right;
+        
     }
     
     #vitamin-why-container {
@@ -452,7 +454,7 @@ hr.solid {
     }
 
     #vitamin-why-text {
-        
+        width: 500px;
         
         
     }
@@ -461,32 +463,44 @@ hr.solid {
         margin-top: 100px;
         width: 50%;
         float: left;
+        
     }
 
+   #vitamin-what-image {
+        width: 500px;
+   }
+
     #vitamin-what-container {
-       
+        
     }
 
     #vitamin-what-text {
-       
+        width: 500px;
     }
 
     #vitamin-animals {
         margin-top: 100px;
         width: 50%;
         float: right;
+        
     }
 
     #vitamin-animals-container {
         
     }
 
+    #vitamin-animals-image {
+        width: 500px;
+    }
+
     #vitamin-animals-text {
-        
+        width: 500px;
     }
 
     #vitamin-begin {
-        margin-top: 1300px;
+        margin-top: 1500px;
+        text-align: center;
+        
     }
    
 }
