@@ -399,6 +399,8 @@ hr.solid {
     }
 
     #hero-text {
+        border-radius: 8px;
+        border: 1px solid #ddd;
         font-size: 150%;   
         font-family: roboto condensed, sans-serif;
         height: 100px;
@@ -412,12 +414,63 @@ hr.solid {
         position: absolute;
     }
 
-
-
     #vitaminc-hero-image {
         height: 600px;
         width: 100%;
         overflow: hidden;
     }
 
+    #vitamin-stats-container {
+        float: left;
+        margin-top: 600px;
+    }
+
+    #vitamin-stats-text {
+        float: right;
+        margin-top: 600px;
+    }
+
+    #vitamin-why-container {
+        float: right;
+        margin-top: 900px;
+    }
+
+    #vitamin-why-text {
+        float: right;
+        margin-top: 900px;
+        /* width: 60%;
+        line-height: 20px;
+        clear: both;
+        margin-bottom: 50px; */
+    }
+
+    #vitamin-what-container {
+        float: left;
+        margin-top: 1200px;
+    }
+
+    #vitamin-what-text {
+        float: right;
+        margin-top: 1200px;
+    }
+
+    #vitamin-animals-container {
+        float: right;
+        margin-top: 1500px;
+    }
+
+    #vitamin-animals-text {
+        float: left;
+        margin-top: 1500px;
+    }
+
+/*
+    #vitamin-why-container, #vitamin-why-text {
+        line-height: 300px;
+    } */
+
+    #vitamin-begin {
+        margin-top: 1800px;
+    }
+   
 }
