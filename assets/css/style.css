@@ -204,6 +204,7 @@ a {
     letter-spacing: 3px;
 }
 
+/* VitaminC page */
 /* vitamin C hero image styling  */ 
 #vitaminc-hero-image {
     background: url(../images/pexels-lukas-1414134.jpg) no-repeat center center;
@@ -300,10 +301,6 @@ a {
     text-align: center;
 }
 
-
-
-
-
 /* vitaminC shop section styling */ 
 #vitaminc-shop > h2 {
     text-align: center;
@@ -322,9 +319,10 @@ a {
     box-sizing: border-box;
 }
 
+/* VitaminD page */
 /* vitamin D hero image styling  */ 
 #vitamind-hero-image {
-    background: url(../images/pexels-lukas-1414134.jpg) no-repeat center center;
+    background: url(../images/pexels-garon-piceli-852793.jpg) no-repeat center center;
     max-width: 100%;
     display: block;
     height: 200px;
