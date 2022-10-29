@@ -310,6 +310,7 @@ a {
 
 #vitaminc-shop img {
     clear: both;
+    max-height: 100px;
 }
 
 .column {
@@ -341,7 +342,7 @@ a {
 }
 
 #vitamind-descr-cover-bg {
-    background: url('../images/pexels-photomix-company-96620.jpg') no-repeat center center;
+    background: url('../images/pexels-anna-tarazevich-5935416.jpg') no-repeat center center;
     width: auto;
     height: 100%;
     background-size: contain;
@@ -425,6 +426,7 @@ a {
 
 #vitamind-shop img {
     clear: both;
+    max-height: 100px;
 }
 
 .column {
@@ -610,7 +612,49 @@ hr.solid {
     #vitamin-begin {
         margin-top: 1500px;
         text-align: center;
-        
+    }
+
+    #vitaminc-video iframe {
+        width: 560px;
+        height: 315px;
+    }
+
+    #vitaminc-article img {
+        height: 300px;
+    }
+
+    #vitaminc-book img {
+        height: 300px;
+    }
+
+    #vitaminc-shop img {
+        max-height: 200px;
+    }
+
+    #vitaminc-shop img {
+        max-height: 200px;
+    }
+
+    #vitamind-video iframe {
+        width: 560px;
+        height: 315px;
+    }
+
+    #vitamind-article img {
+        height: 300px;
+    }
+
+    #vitamind-book img {
+        height: 300px;
+    }
+
+    #vitamind-shop img {
+        max-height: 200px;
+    }
+
+    #vitamind-shop img {
+        max-height: 200px;
     }
    
+
 }
