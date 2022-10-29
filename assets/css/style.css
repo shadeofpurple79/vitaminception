@@ -11,6 +11,7 @@ body {
     font-weight: 300;
     color: #2f4f4f;
 }
+
 h1 h2 {
     font-family: roboto, sans-serif;
     font-weight: 300;
@@ -273,7 +274,6 @@ a {
     height: auto;
     display: block;
     text-align: center;
-
 }
 
 #vitaminc-article {
@@ -389,7 +389,6 @@ a {
     height: auto;
     display: block;
     text-align: center;
-
 }
 
 #vitamind-article {
@@ -475,18 +474,12 @@ hr.solid {
     color: #3a3a3a;
 }
 
-
-
-
-
-
 /* need styling between 600px and 1000px*/
 
 /* desktop view styling - breaks under 950px*/
 
 @media screen and (min-width: 600px) 
 {
-    
     /* logo and menu links */
 
     #menu, #logo {
@@ -570,7 +563,6 @@ hr.solid {
         margin-top: 10px;
         width: 50%;
         float: right;
-        
     }
     
     #vitamin-why-container {
@@ -579,8 +571,6 @@ hr.solid {
 
     #vitamin-why-text {
         width: 500px;
-        
-        
     }
 
     #vitamin-what {   
@@ -605,7 +595,6 @@ hr.solid {
         margin-top: 100px;
         width: 50%;
         float: right;
-        
     }
 
     #vitamin-animals-container {
@@ -666,6 +655,4 @@ hr.solid {
     #vitamind-shop img {
         max-height: 200px;
     }
-   
-
 }
