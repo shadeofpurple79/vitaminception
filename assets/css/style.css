@@ -5,7 +5,7 @@
     padding: 0;
     border: none;
 }
-
+ 
 body {
     font-family: roboto condensed, sans-serif;
     font-weight: 300;
@@ -322,6 +322,119 @@ a {
     box-sizing: border-box;
 }
 
+/* vitamin D hero image styling  */ 
+#vitamind-hero-image {
+    background: url(../images/pexels-lukas-1414134.jpg) no-repeat center center;
+    max-width: 100%;
+    display: block;
+    height: 200px;
+}
+
+/* vitaminD descr section styling */ 
+#vitamind-descr-container {
+    width: 200px;
+    height: 200px;
+    padding: 3px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto; 
+}
+
+#vitamind-descr-cover-bg {
+    background: url('../images/pexels-photomix-company-96620.jpg') no-repeat center center;
+    width: auto;
+    height: 100%;
+    background-size: contain;
+    border-radius: 50%;
+}
+
+#vitamind-descr {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+/* vitaminD sources section styling */ 
+#vitamind-sources > a {
+    text-align: center; 
+    font-style: italic;
+    font-size: small;
+}
+
+#vitamind-sources-graphic {
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    width: 80%;
+    max-width: 564px; 
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#vitamind-info {
+
+}
+
+#vitamind-video {
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    max-width: 564px; 
+    height: auto;
+    display: block;
+    text-align: center;
+
+}
+
+#vitamind-article {
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 80%;
+    max-width: 564px; 
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#vitamind-book {
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 80%;
+    max-width: 564px; 
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+/* vitaminD shop section styling */ 
+#vitamind-shop > h2 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#vitamind-shop img {
+    clear: both;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    box-sizing: border-box;
+}
 
 /* footer styling */
 footer {
@@ -362,9 +475,9 @@ hr.solid {
 
 
 
+/* need styling between 600px and 1000px*/
 
-
-/* desktop view styling */
+/* desktop view styling - breaks under 950px*/
 
 @media screen and (min-width: 600px) 
 {
@@ -459,11 +572,10 @@ hr.solid {
         
     }
 
-    #vitamin-what {   /*breaks above 1000px screen */
+    #vitamin-what {   
         margin-top: 100px;
         width: 50%;
         float: left;
-        
     }
 
    #vitamin-what-image {
