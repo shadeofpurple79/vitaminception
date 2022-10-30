@@ -617,7 +617,7 @@ hr.solid {
     }
 
     #vitamin-stats-container {
-        
+        text-align: center;
     }
 
     #vitamin-stats-text {
@@ -631,7 +631,7 @@ hr.solid {
     }
     
     #vitamin-why-container {
-        
+        text-align: center;
     }
 
     #vitamin-why-text {
@@ -663,7 +663,7 @@ hr.solid {
     }
 
     #vitamin-animals-container {
-        
+        text-align: center;
     }
 
     #vitamin-animals-image {
@@ -679,6 +679,14 @@ hr.solid {
         text-align: center;
     }
 
+    #vitaminc-descr {
+        margin: 100px;
+    }
+
+    #vitaminc-sources {
+        margin: 100px;
+    }
+
     #vitaminc-video iframe {
         width: 560px;
         height: 315px;
@@ -692,12 +700,24 @@ hr.solid {
         height: 300px;
     }
 
+    #vitaminc-shop {
+        margin: 100px;
+    }
+
     #vitaminc-shop img {
         max-height: 200px;
     }
 
     #vitaminc-shop img {
         max-height: 200px;
+    }
+
+    #vitamind-descr {
+        margin: 100px;
+    }
+
+    #vitamind-sources {
+        margin: 100px;
     }
 
     #vitamind-video iframe {
@@ -711,6 +731,10 @@ hr.solid {
 
     #vitamind-book img {
         height: 300px;
+    }
+
+    #vitamind-shop {
+        margin: 100px;
     }
 
     #vitamind-shop img {
