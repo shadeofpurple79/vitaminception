@@ -463,8 +463,22 @@ hr.solid {
     border-top: 3px solid #bbb;
   }
 
+#signup h3 {
+    text-align: center;
+    font-size: 200%;
+    padding: 20px;
+}
+
+#signup input {
+    width: 40%;
+    border: 2px solid #bbb;
+    box-sizing: border-box;
+}
+
 #social-networks {
     text-align: center;
+    font-size: 150%;
+    padding: 20px;
 }
 
 #social-networks li {
@@ -480,7 +494,7 @@ hr.solid {
 .social-networks i {
     font-size: 160%;
     margin: 1%;
-    padding: 5%;
+    padding: 5px;
     color: #3a3a3a;
 }
 
@@ -544,6 +558,12 @@ hr.solid {
         height: 300px;
         width: 100%;
         overflow: hidden;
+    }
+
+    #signup input {
+        width: 20%;
+        border: 2px solid #bbb;
+        box-sizing: border-box;
     }
 }
 
