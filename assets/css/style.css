@@ -529,6 +529,11 @@ hr.solid {
         position: absolute;
     }
 
+    #menu li {
+        float: left;
+        margin-left: 50px;
+    }
+
     #vitaminc-hero-image {
         height: 300px;
         width: 100%;
@@ -562,10 +567,10 @@ hr.solid {
     }
 
     #menu li {
-        float: right;
         list-style-type: none;
         list-style: none;
-        margin-right: 30px;
+        float: left;
+        margin-right: 50px;
     }
 
     /* desktop hero image and cover text */
