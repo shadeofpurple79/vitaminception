@@ -88,10 +88,6 @@ a {
     padding-bottom: 15px;
 }
 
-.vitamin-box-format {
-
-}
-
 /* stats content section styling */ 
 #vitamin-stats-container {
     width: 200px;
@@ -112,12 +108,12 @@ a {
     border-radius: 50%;
 }
 
-#vitamin-stats {
+.vitamin-box {
     padding-top: 30px;
     padding-bottom: 10px;
 }
 
-#vitamin-stats li {
+.vitamin-stats li {
     text-align: center;
     line-height: 30px;
 }
@@ -635,15 +631,13 @@ hr.solid {
 
     /* desktop Main body content styling in blocks */
 
-   
-
-    #vitamin-stats {
+    .vitamin-box {
         margin-top: 10px;
         width: 50%;
         float: left;
     }
 
-    #vitamin-stats li {
+    .vitamin-box li {
         list-style: none;
     }
 
