@@ -88,7 +88,32 @@ a {
     padding-bottom: 15px;
 }
 
+/* main content section shared styling for all 4 boxes */
+
+.vitamin-box {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.vitamin-box li {
+    text-align: center;
+    line-height: 30px;
+}
+
+.vitamin-box-container {
+    width: 200px;
+    height: 200px;
+    padding: 3px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto; 
+}
+
 /* stats content section styling */ 
+
+/*
 #vitamin-stats-container {
     width: 200px;
     height: 200px;
@@ -99,6 +124,7 @@ a {
     border-radius: 50%;
     margin: 0 auto; 
 }
+*/
 
 #vitamin-stats-cover-bg {
     background: url('../images/pexels-anastasia-tooming-11105320.jpg') no-repeat center center;
@@ -108,17 +134,8 @@ a {
     border-radius: 50%;
 }
 
-.vitamin-box {
-    padding-top: 30px;
-    padding-bottom: 10px;
-}
-
-.vitamin-stats li {
-    text-align: center;
-    line-height: 30px;
-}
-
 /* why content section styling */ 
+/*
 #vitamin-why-container {
     width: 200px;
     height: 200px;
@@ -129,6 +146,7 @@ a {
     border-radius: 50%;
     margin: 0 auto; 
 }
+*/
 
 #vitamin-why-cover-bg {
     background: url('../images/pexels-ian-turnell-709567.jpg') no-repeat center center;
@@ -139,6 +157,7 @@ a {
 }
 
 /* what content section styling */ 
+/*
 #vitamin-what-container {
     width: 200px;
     height: 200px;
@@ -149,6 +168,7 @@ a {
     border-radius: 50%;
     margin: 0 auto; 
 }
+*/
 
 #vitamin-what-cover-bg {
     background: url('../images/pexels-digital-buggu-171198.jpg') no-repeat center center;
@@ -159,6 +179,7 @@ a {
 }
 
 /* animals content section styling */ 
+/*
 #vitamin-animals-container {
     width: 200px;
     height: 200px;
@@ -169,6 +190,7 @@ a {
     border-radius: 50%;
     margin: 0 auto; 
 }
+*/
 
 #vitamin-animals-cover-bg {
     background: url('../images/pexels-oleksandr-pidvalnyi-321552.jpg') no-repeat center center;
@@ -641,9 +663,15 @@ hr.solid {
         list-style: none;
     }
 
+    .vitamin-box-container {
+        text-align: center;
+    }
+
+    /*
     #vitamin-stats-container {
         text-align: center;
     }
+    */
 
     #vitamin-stats-text {
         width: 500px;
@@ -657,9 +685,11 @@ hr.solid {
     }
     */
     
+    /*
     #vitamin-why-container {
         text-align: center;
     }
+    */
 
     #vitamin-why-text {
         width: 500px;
@@ -672,14 +702,16 @@ hr.solid {
         float: left;
     }
     */
-
+/*
    #vitamin-what-image {
         width: 500px;
-   }
+   }*/
 
+   /*
     #vitamin-what-container {
         
     }
+    */
 
     #vitamin-what-text {
         width: 500px;
@@ -693,13 +725,17 @@ hr.solid {
     }
     */
 
+    /*
     #vitamin-animals-container {
         text-align: center;
     }
+    */
 
+    /*
     #vitamin-animals-image {
         width: 500px;
     }
+    */
 
     #vitamin-animals-text {
         width: 500px;
@@ -707,9 +743,14 @@ hr.solid {
 
     */
 
+
     #vitamin-begin {
-        margin-top: 1500px;
+       /* margin-top: 1500px;*/
         text-align: center;
+    }
+
+    #vitamin-begin-container {
+        margin-top: 1500px
     }
 
     #vitaminc-descr {
