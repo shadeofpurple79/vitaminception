@@ -45,13 +45,13 @@ Navigation Bar
 
 Navigation bar appears on all pages, at the top, and includes a logo, links to all pages, and is fully responsive. The mobile view is stacked links, whereas tablet and desktop views display the navigation inline. 
 
-(add screenshot)
+![Navigation Screenshot]/assets/images/navigation.png
 
 Footer
 
 Footer includes a social media link to Instagram to invite the users to follow Vitaminception activities. A simple sign up form has also been added to the footer to invite the user to provide their email addresses in order to receive news and updates from Vitaminception.
 
-(add screenshot)
+![Navigation Screenshot]/assets/images/footer.png
 
 Vitamin C Page
 
