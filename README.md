@@ -1,14 +1,18 @@
 VITAMINCEPTION
 
+Vitaminception is a guide for the big and complex worls of vitamins and supplements. A quick Google or Amazon search vitamins results in millions and billions of search results. There are hundreds of vitamin brands in the market and the product ingredients label is a mystery. If that wasn't enough, the advice from medical professionals, health coaches, nutritionists and of course the media are confusing and conflicting. Vitaminception takes this back to the beginning and explains the benefits of vitamins, the natural sources to obtain them and if necessary, the recommended supplements to take, in simple, plain terms. 
+
+![Alt description goes in here](path to file goes in here)
+e.g.
+![Responsive Screenshot Mockup](/assets/media/ss-homepage-top.png)
+
+
 purpose, description
 screenshots
 one or two paragraphs providing an overview of your project.
  describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience.
 screenshots and descriptions for different devices
 
-![Alt description goes in here](path to file goes in here)
-e.g.
-![Responsive Screenshot Mockup](/assets/media/ss-homepage-top.png)
 
 
 Features
