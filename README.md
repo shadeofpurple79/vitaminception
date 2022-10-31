@@ -16,25 +16,6 @@ According to datareportal.com, 92& of global internet users aged 16 to 64 go onl
 
 
 ## CONTENTS
-
-- [FEATURES](#features)
-- [TESTING](#testing)
-- [SOLVED BUGS AND ERRORS](#solved-bugs-and-errors)
-  * [UNSOLVED BUGS AND ERRORS](#unsolved-bugs-and-errors)
-  * [FUNCTIONALITY](#functionality)
-- [TECHNOLOGIES USED](#technologies-used)
-  * [PROGRAMS USED](#programs-used)
-- [DEPLOYMENT](#deployment)
-  * [REMOTE](#remote-deployment)
-  * [HOW TO FORK A REPOSITORY](#how-to-fork-a-repository)
-  * [HOW TO CLONE A REPOSITORY](#how-to-clone-a-repository)
-  * [HOW TO MAKE A LOCAL CLONE](#how-to-make-a-local-clone)
-
-- [CREDITS](#credits-and-references)
-  * [IMAGES AND INFORMATION](#images-and-information)
-  * [CODE](#code)
-- [ACKNOWLEDGEMENTS](#acknowledgements)
-
 - [Features](#features)
     * [Navigation bar](#navigation-bar)
     * [Footer](#footer)

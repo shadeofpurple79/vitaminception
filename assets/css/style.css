@@ -88,6 +88,10 @@ a {
     padding-bottom: 15px;
 }
 
+.vitamin-box-format {
+
+}
+
 /* stats content section styling */ 
 #vitamin-stats-container {
     width: 200px;
@@ -631,12 +635,18 @@ hr.solid {
 
     /* desktop Main body content styling in blocks */
 
+    .vitamin-box-format {
+        margin-top: 10px;
+        width: 50%;
+    }
+
+/*
     #vitamin-stats {
         margin-top: 10px;
         width: 50%;
         float: left;
     }
-
+*/
     #vitamin-stats li {
         list-style: none;
     }
@@ -649,11 +659,13 @@ hr.solid {
         width: 500px;
     }
 
+    /*
     #vitamin-why {
         margin-top: 10px;
         width: 50%;
         float: right;
     }
+    */
     
     #vitamin-why-container {
         text-align: center;
@@ -663,11 +675,13 @@ hr.solid {
         width: 500px;
     }
 
+    /*
     #vitamin-what {   
         margin-top: 100px;
         width: 50%;
         float: left;
     }
+    */
 
    #vitamin-what-image {
         width: 500px;
@@ -681,11 +695,13 @@ hr.solid {
         width: 500px;
     }
 
+    /*
     #vitamin-animals {
         margin-top: 100px;
         width: 50%;
         float: right;
     }
+    */
 
     #vitamin-animals-container {
         text-align: center;
@@ -698,6 +714,8 @@ hr.solid {
     #vitamin-animals-text {
         width: 500px;
     }
+
+    */
 
     #vitamin-begin {
         margin-top: 1500px;
