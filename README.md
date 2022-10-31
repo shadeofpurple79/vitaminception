@@ -1,10 +1,15 @@
-https://github.com/Code-Institute-Solutions/readme-template
+VITAMINCEPTION
 
-purpose
+purpose, description
+screenshots
 one or two paragraphs providing an overview of your project.
  describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience.
-
 screenshots and descriptions for different devices
+
+![Alt description goes in here](path to file goes in here)
+e.g.
+![Responsive Screenshot Mockup](/assets/media/ss-homepage-top.png)
+
 
 Features
 explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
