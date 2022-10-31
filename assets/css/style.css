@@ -635,18 +635,14 @@ hr.solid {
 
     /* desktop Main body content styling in blocks */
 
-    .vitamin-box-format {
-        margin-top: 10px;
-        width: 50%;
-    }
+   
 
-/*
     #vitamin-stats {
         margin-top: 10px;
         width: 50%;
         float: left;
     }
-*/
+
     #vitamin-stats li {
         list-style: none;
     }
