@@ -58,14 +58,14 @@ Vitamin C Page
 External links and references have been used on the Vitamin C page in order to provide reliable information and also to gain credibility of the informaiton provided on the Vitaminception website. Vitamin C page refers to the following external links:
 
 
-(add screenshot)
+![Vitamin C Page View Screenshot]/assets/images/vitaminc-screencapture-shadeofpurple79-github-io-vitaminception-vitaminc-html-2022-10-31-10_45_20.png
 (list external sources)
 
 Vitamin D page
 
 External links and references have been used on the Vitamin C page in order to provide reliable information and also to gain credibility of the informaiton provided on the Vitaminception website. itamin D page refers to the following external links:
 
-(add screenshot)
+![Vitamin D Page View Screenshot]/assets/images/vitamind-screencapture-shadeofpurple79-github-io-vitaminception-vitamind-html-2022-10-31-10_45_34.png
 (list external sources)
 
 Future Features 
@@ -74,8 +74,55 @@ Add affiliate links for commercial purposes
 Add database link to connect the sign up form to, and store the users' email addresses
 GDPR policy to comply with the regulations when collecting users' data
 
+
 Testing
+
+The website has been tested on Chrome, Safari and Firefox latest versions.
+It has also been tested on iphone standard and iphone plus screens, as well as laptop screen and a desktop device. 
+Responsinator validator showed a broken text overlay on rotated landscpae view on mobile screens which has not been fixed in this version. 
+
+Validator Testing
+
+HTML - No errors were returned when passing through the official W3C validator
+CSS - No errors were found when passing through the official (Jigsaw) validator
+Responsiveness - No errors were found when passing through the Responsinator validator
+
+Unfixed Bugs
+
+Broken text overlay on rotated landscpae view on mobile screens which has not been fixed in this version. 
 
 Deployment
 
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
+
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here - https://shadeofpurple79.github.io/vitaminception/ 
+
 Credits
+
+Content
+
+Vitamins are not pharmaceuticals and therefore are not regulated as medicines. However, they are still used for their health benefits and therefore most of the content on the website were sourced from medical and scientific journals, or credible health publishers. 
+https://www.nia.nih.gov
+https://www.ncbi.nlm.nih.gov 
+https://www.hsph.harvard.edu
+http://sciencefocus.ust.hk
+https://onlinelibrary.wiley.com
+
+
+Recommended books were sourced from the World of Books website which sells used books - 
+https://www.wob.com
+
+Shop content and recommended product links are sourced from trusted sellers of vitamin propducts. 
+https://www.hollandandbarrett.com
+https://www.sainsburys.co.uk
+https://www.dolphinfitness.co.uk
+
+Media
+
+The photos used on the website were from Pexels.com a free stock photos website. The filename of the photos have been kept the same as was required by the Pexels site, in order to credit the photographers. https://www.pexels.com/ 
+
+The videos used on the website have been taken from Youtube. Special attention has been taken to ensure that the resources are qualified medical profesisonals. https://www.youtube.com/ 
