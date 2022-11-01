@@ -89,6 +89,50 @@ a {
     padding-bottom: 15px;
 }
 
+/* CSS grid for index page main content area*/
+
+.vitamin-wrapper {
+    display: grid;
+    grid-template-rows: minmax(auto, auto, auto, auto, auto);
+    grid-template-columns: minmax(auto, auto, auto, auto, auto);
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+    background-color: #fff;
+  }
+  
+  .vitamin-stats1 {
+    background-color: #fafafa;
+    border-radius: 5px;
+    padding: 20px;
+  }
+
+  .vitamin-why1 {
+    background-color:#fafafa;
+    border-radius: 5px;
+    padding: 20px;
+  }
+
+  .vitamin-what1 {
+    background-color:#fafafa;
+    border-radius: 5px;
+    padding: 20px;
+  }
+
+  .vitamin-animals1 {
+    background-color:#fafafa;
+    border-radius: 5px;
+    padding: 20px;
+  }
+
+  .vitamin-begin1 {
+    background-color: #fafafa;
+    border-radius: 5px;
+    padding: 20px;
+  }
+
+
+
+
 /* main content section shared styling for all 4 boxes */
 
 .vitamin-box {

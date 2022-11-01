@@ -70,7 +70,7 @@ Responsiveness - No errors were found when passing through the Responsinator val
 
 ![Screenshot](image path here)
 
-## Unfixed Bugs
+### Unfixed Bugs
 
 Broken text overlay on rotated landscpae view on mobile screens which has not been fixed in this version. 
 
