@@ -8,27 +8,11 @@ Vitaminception is a guide for the big and complex worls of vitamins and suppleme
 
 According to datareportal.com, 92& of global internet users aged 16 to 64 go online via a mobile phone. For this reason, Vitaminception has been designed and developed with a mobile-first approach. Alternative views for tablets and desktops have also been provided for such users. 
 
-![Mobile View Screenshot]/assets/images/mobile-screencapture-shadeofpurple79-github-io-vitaminception-2022-10-31-09_36_05.png
+![Mobile View Screenshot](images/mobile-screencapture.png)
 
-![Tablet View Screenshot]/assets/images/tablet-screencapture-shadeofpurple79-github-io-vitaminception-2022-10-31-09_36_19.png
+![Tablet View Screenshot](images/tablet-screencapture.png)
 
-![Desktop View Screenshot]/assets/images/desktop-screencapture-shadeofpurple79-github-io-vitaminception-2022-10-31-09_36_43.png
-
-
-## CONTENTS
-- [Features](#features)
-    * [Navigation bar](#navigation-bar)
-    * [Footer](#footer)
-    * [Vitamin C page](#vitamin-c-page)
-    * [Vitamin D page](#vitamin-d-page)
-    * [Future Features](#future-features)
-- [Testing](#testing)
-    * [Validator Testing](#validator-testing)
-    * [Unfixed Bugs](#unfixed-bugs)
-- [Deployment](#deployment)
-- [Credits](#credits)
-    * [Content](#content)
-    * [Media](#media)
+![Desktop View Screenshot](images/desktop-screencapture.png)
 
 ## Features
 
@@ -42,26 +26,26 @@ Vitaminception business will have special commercial agreements with the selecte
 
 Navigation bar appears on all pages, at the top, and includes a logo, links to all pages, and is fully responsive. The mobile view is stacked links, whereas tablet and desktop views display the navigation inline. 
 
-![Navigation Screenshot]/assets/images/navigation.png
+![Navigation Screenshot](images/navigation.png)
 
 ### Footer
 
 Footer includes a social media link to Instagram to invite the users to follow Vitaminception activities. A simple sign up form has also been added to the footer to invite the user to provide their email addresses in order to receive news and updates from Vitaminception.
 
-![Navigation Screenshot]/assets/images/footer.png
+![Navigation Screenshot](images/footer.png)
 
 ### Vitamin C Page
 
 External links and references have been used on the Vitamin C page in order to provide reliable information and also to gain credibility of the informaiton provided on the Vitaminception website. Vitamin C page refers to the following external links:
 
-![Vitamin C Page View Screenshot]/assets/images/vitaminc-screencapture-shadeofpurple79-github-io-vitaminception-vitaminc-html-2022-10-31-10_45_20.png
+![Vitamin C Page View Screenshot](images/vitaminc-screencapture.png)
 (list external sources)
 
 ### Vitamin D page
 
 External links and references have been used on the Vitamin C page in order to provide reliable information and also to gain credibility of the informaiton provided on the Vitaminception website. itamin D page refers to the following external links:
 
-![Vitamin D Page View Screenshot]/assets/images/vitamind-screencapture-shadeofpurple79-github-io-vitaminception-vitamind-html-2022-10-31-10_45_34.png
+![Vitamin D Page View Screenshot](images/vitamind-screencapture-.png)
 (list external sources)
 
 ### Future Features 
@@ -76,11 +60,15 @@ The website has been tested on Chrome, Safari and Firefox latest versions.
 It has also been tested on iphone standard and iphone plus screens, as well as laptop screen and a desktop device. 
 Responsinator validator showed a broken text overlay on rotated landscpae view on mobile screens which has not been fixed in this version. 
 
+![Screenshot](image path here)
+
 ### Validator Testing
 
 HTML - No errors were returned when passing through the official W3C validator
 CSS - No errors were found when passing through the official (Jigsaw) validator
 Responsiveness - No errors were found when passing through the Responsinator validator
+
+![Screenshot](image path here)
 
 ## Unfixed Bugs
 
