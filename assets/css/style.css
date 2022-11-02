@@ -4,13 +4,13 @@
     margin: 0;
     padding: 0;
     border: none;
-    background-color: #fafafa;
 }
 
 body {
     font-family: roboto condensed, sans-serif;
     font-weight: 300;
     color: #2f4f4f;
+    background-color: #fafafa;
 }
 
 h1 h2 {
@@ -93,56 +93,50 @@ a {
 
 .vitamin-wrapper {
     display: grid;
-    grid-template-rows: minmax(auto, auto, auto, auto, auto);
-    grid-template-columns: minmax(auto, auto, auto, auto, auto);
     grid-row-gap: 20px;
     grid-column-gap: 20px;
-    background-color: #fff;
+  }
+
+.vitamin-wrapper-1 {
+    display: grid;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
   }
   
-  .vitamin-stats1 {
-    background-color: #fafafa;
+  .vitamin-stats {
+    background-color: #fffafa;
     border-radius: 5px;
     padding: 20px;
   }
 
-  .vitamin-why1 {
-    background-color:#fafafa;
+  .vitamin-why {
+    background-color:#fffafa;
     border-radius: 5px;
     padding: 20px;
   }
 
-  .vitamin-what1 {
-    background-color:#fafafa;
+  .vitamin-what {
+    background-color:#fffafa;
     border-radius: 5px;
     padding: 20px;
   }
 
-  .vitamin-animals1 {
-    background-color:#fafafa;
+  .vitamin-animals {
+    background-color:#fffafa;
     border-radius: 5px;
     padding: 20px;
   }
 
-  .vitamin-begin1 {
-    background-color: #fafafa;
+  .vitamin-begin {
+    background-color: #fffafa;
     border-radius: 5px;
     padding: 20px;
   }
 
-
-
-
-/* main content section shared styling for all 4 boxes */
-
-.vitamin-box {
-    padding-top: 30px;
-    padding-bottom: 10px;
-}
-
-.vitamin-box li {
+.vitamin-stats li {
     text-align: center;
     line-height: 30px;
+    list-style-type: none;
 }
 
 .vitamin-box-container {
@@ -156,7 +150,7 @@ a {
     margin: 0 auto;
 }
 
-/* stats content section styling */
+/* circle images on the index page */
 
 #vitamin-stats-cover-bg {
     background: url('../images/pexels-anastasia-tooming-11105320.jpg') no-repeat center center;
@@ -166,8 +160,6 @@ a {
     border-radius: 50%;
 }
 
-/* why content section styling */
-
 #vitamin-why-cover-bg {
     background: url('../images/pexels-ian-turnell-709567.jpg') no-repeat center center;
     width: auto;
@@ -175,8 +167,6 @@ a {
     background-size: contain;
     border-radius: 50%;
 }
-
-/* what content section styling */
 
 #vitamin-what-cover-bg {
     background: url('../images/pexels-digital-buggu-171198.jpg') no-repeat center center;
@@ -186,26 +176,12 @@ a {
     border-radius: 50%;
 }
 
-/* animals content section styling */
-
 #vitamin-animals-cover-bg {
     background: url('../images/pexels-oleksandr-pidvalnyi-321552.jpg') no-repeat center center;
     width: auto;
     height: 100%;
     background-size: contain;
     border-radius: 50%;
-}
-
-/* begin content section styling */
-#vitamin-begin-container {
-    width: 200px;
-    height: 200px;
-    padding: 3px;
-    border-style: solid;
-    border-color: #ccc;
-    border-width: 1px;
-    border-radius: 50%;
-    margin: 0 auto;
 }
 
 #vitamin-begin-cover-bg {
@@ -216,12 +192,13 @@ a {
     border-radius: 50%;
 }
 
-#vitamin-begin li {
+.vitamin-begin li {
     text-align: center;
     line-height: 30px;
     text-align: center;
     font-size: 120%;
     letter-spacing: 3px;
+    list-style-type: none;
 }
 
 /* VitaminC page */
@@ -259,7 +236,7 @@ a {
 }
 
 /* vitaminC sources section styling */
-#vitaminc-sources>a {
+#vitaminc-sources > a {
     text-align: center;
     font-style: italic;
     font-size: small;
@@ -276,8 +253,6 @@ a {
     margin-left: auto;
     margin-right: auto;
 }
-
-#vitaminc-info {}
 
 #vitaminc-video {
     border-radius: 8px;
@@ -377,7 +352,7 @@ a {
 }
 
 /* vitaminD sources section styling */
-#vitamind-sources>a {
+#vitamind-sources > a {
     text-align: center;
     font-style: italic;
     font-size: small;
@@ -394,8 +369,6 @@ a {
     margin-left: auto;
     margin-right: auto;
 }
-
-#vitamind-info {}
 
 #vitamind-video {
     border-radius: 8px;
@@ -465,6 +438,7 @@ a {
 }
 
 /* footer styling */
+
 footer {
     clear: both;
     height: 150px;
@@ -516,8 +490,7 @@ hr.solid {
 @media screen and (min-width: 600px) {
 
     /* tablet logo and menu links */
-    #menu,
-    #logo {
+    #menu, #logo {
         line-height: 150px;
     }
 
@@ -582,13 +555,11 @@ hr.solid {
     }
 }
 
-
 /* desktop view styling */
 @media screen and (min-width: 1000px) {
 
     /* desktop logo and menu links */
-    #menu,
-    #logo {
+    #menu, #logo {
         line-height: 300px;
     }
 
@@ -633,53 +604,32 @@ hr.solid {
         position: absolute;
     }
 
+    /* index page main content desktop view */
+
+    .vitamin-wrapper {
+        display: grid;
+        grid-template-columns: 500px 500px;
+        grid-row: auto auto;
+        grid-column-gap: 20px;
+        grid-row-gap: 20px;
+        justify-content:center;
+      }
+
+    .vitamin-wrapper-1 {
+        display: grid;
+        grid-template-columns: 1000px;
+        grid-row: auto auto;
+        grid-column-gap: 20px;
+        grid-row-gap: 20px;
+        justify-content:center;
+      }
+
+    /* vitaminc page desktop view */
+
     #vitaminc-hero-image {
         height: 600px;
         width: 100%;
         overflow: hidden;
-    }
-
-    #vitamind-hero-image {
-        height: 600px;
-        width: 100%;
-        overflow: hidden;
-    }
-
-    /* desktop Main body content styling in blocks */
-
-    .vitamin-box {
-        margin-top: 10px;
-        width: 50%;
-        float: left;
-    }
-
-    .vitamin-box li {
-        list-style: none;
-    }
-
-    .vitamin-box-container {
-        text-align: center;
-    }
-
-    #vitamin-why-text {
-        width: 500px;
-    }
-
-    #vitamin-what-text {
-        width: 500px;
-    }
-
-    #vitamin-animals-text {
-        width: 500px;
-    }
-
-    #vitamin-begin {
-        /* margin-top: 1500px;*/
-        text-align: center;
-    }
-
-    #vitamin-begin-container {
-        margin-top: 1500px
     }
 
     #vitaminc-descr {
@@ -713,6 +663,14 @@ hr.solid {
 
     #vitaminc-shop img {
         max-height: 200px;
+    }
+
+    /* vitamind page desktop view */
+
+    #vitamind-hero-image {
+        height: 600px;
+        width: 100%;
+        overflow: hidden;
     }
 
     #vitamind-descr {
