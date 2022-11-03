@@ -97,7 +97,7 @@ a {
     grid-column-gap: 20px;
   }
 
-.vitamin-wrapper-1 {
+.vitamin-wrapper-1 { /*styling for vitamin begin section on index page */
     display: grid;
     grid-row-gap: 20px;
     grid-column-gap: 20px;
@@ -256,13 +256,13 @@ a {
 }
 
 /* vitaminC sources section styling */
-.vitaminc-sources > a {
+.vitaminc-wrapper a {
     text-align: center;
     font-style: italic;
     font-size: small;
 }
 
-#vitaminc-sources-graphic {
+/* #vitaminc-sources-graphic {
     border-radius: 8px;
     border: 1px solid #ddd;
     padding: 5px;
@@ -272,7 +272,7 @@ a {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
+} */
 
 /* #vitaminc-video {
     border-radius: 8px;
@@ -321,7 +321,7 @@ a {
     grid-column-gap: 20px;
   }
 
-#vitaminc-shop>h2 {
+/* #vitaminc-shop>h2 {
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -330,7 +330,7 @@ a {
 #vitaminc-shop img {
     clear: both;
     max-height: 100px;
-}
+} */
 
 /* VitaminD page */
 /* vitamin D hero image styling  */
@@ -448,7 +448,7 @@ a {
 .column {
     float: left;
     width: 33.33%;
-    padding: 5px;
+    padding: 15px;
     box-sizing: border-box;
 }
 
@@ -656,18 +656,18 @@ hr.solid {
         justify-content:center;
       }
 
-    #vitaminc-video iframe {
-        width: 560px;
-        height: 315px;
-    }
+    /* #vitaminc-video iframe {
+        width: auto;
+        height: auto;
+    } */
 
-    #vitaminc-article img {
+    /* #vitaminc-article img {
         height: 300px;
     }
 
     #vitaminc-book img {
         height: 300px;
-    }
+    } */
 
     #vitaminc-shop img {
         max-height: 200px;
