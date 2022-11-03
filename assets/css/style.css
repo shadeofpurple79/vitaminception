@@ -211,6 +211,31 @@ a {
 }
 
   /* vitaminc c description section styling */
+
+  .vitaminc-wrapper {
+    display: grid;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+  }
+
+  .vitaminc-descr {
+    display: grid;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+  }
+  
+  .vitaminc-sources {
+    display: grid;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+  }
+  
+  .vitaminc-info {
+    display: grid;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+  }
+
   #vitaminc-descr-container {
     width: 200px;
     height: 200px;
@@ -230,13 +255,8 @@ a {
     border-radius: 50%;
 }
 
-#vitaminc-descr {
-    padding-top: 30px;
-    padding-bottom: 10px;
-}
-
 /* vitaminC sources section styling */
-#vitaminc-sources > a {
+.vitaminc-sources > a {
     text-align: center;
     font-style: italic;
     font-size: small;
@@ -295,9 +315,11 @@ a {
 
 /* vitaminC shop section styling */
 
-#vitaminc-shop {
-    text-align: center;
-}
+.vitaminc-shop {
+    display: grid;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+  }
 
 #vitaminc-shop>h2 {
     text-align: center;
@@ -308,13 +330,6 @@ a {
 #vitaminc-shop img {
     clear: both;
     max-height: 100px;
-}
-
-.column {
-    float: left;
-    width: 33.33%;
-    padding: 5px;
-    box-sizing: border-box;
 }
 
 /* VitaminD page */
@@ -632,13 +647,14 @@ hr.solid {
         overflow: hidden;
     }
 
-    #vitaminc-descr {
-        margin: 100px;
-    }
-
-    #vitaminc-sources {
-        margin: 100px;
-    }
+    .vitaminc-wrapper {
+        display: grid;
+        grid-template-columns: 1000px;
+        grid-row: auto auto;
+        grid-column-gap: 20px;
+        grid-row-gap: 20px;
+        justify-content:center;
+      }
 
     #vitaminc-video iframe {
         width: 560px;
@@ -651,10 +667,6 @@ hr.solid {
 
     #vitaminc-book img {
         height: 300px;
-    }
-
-    #vitaminc-shop {
-        margin: 100px;
     }
 
     #vitaminc-shop img {
