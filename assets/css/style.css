@@ -61,14 +61,14 @@ a {
     border-bottom: 1px solid #2f4f4f;
 }
 
-/* styling lists in menu */
+/* lists in menu */
 #menu li {
     margin-bottom: 10px;
     list-style-type: none;
     list-style: none;
 }
 
-/* hero image styling  */
+/* hero image */
 #hero-image {
     background: url(../images/vitaminception-main.png) no-repeat center center;
     max-width: 100%;
@@ -95,43 +95,44 @@ a {
     display: grid;
     grid-row-gap: 20px;
     grid-column-gap: 20px;
-  }
+}
 
-.vitamin-wrapper-1 { /*styling for vitamin begin section on index page */
+.vitamin-wrapper-1 {
+    /*styling for vitamin begin section on index page */
     display: grid;
     grid-row-gap: 20px;
     grid-column-gap: 20px;
-  }
-  
-  .vitamin-stats {
+}
+
+.vitamin-stats {
     background-color: #fffafa;
     border-radius: 5px;
     padding: 20px;
-  }
+}
 
-  .vitamin-why {
-    background-color:#fffafa;
-    border-radius: 5px;
-    padding: 20px;
-  }
-
-  .vitamin-what {
-    background-color:#fffafa;
-    border-radius: 5px;
-    padding: 20px;
-  }
-
-  .vitamin-animals {
-    background-color:#fffafa;
-    border-radius: 5px;
-    padding: 20px;
-  }
-
-  .vitamin-begin {
+.vitamin-why {
     background-color: #fffafa;
     border-radius: 5px;
     padding: 20px;
-  }
+}
+
+.vitamin-what {
+    background-color: #fffafa;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.vitamin-animals {
+    background-color: #fffafa;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.vitamin-begin {
+    background-color: #fffafa;
+    border-radius: 5px;
+    padding: 20px;
+}
 
 .vitamin-stats li {
     text-align: center;
@@ -151,7 +152,6 @@ a {
 }
 
 /* circle images on the index page */
-
 #vitamin-stats-cover-bg {
     background: url('../images/pexels-anastasia-tooming-11105320.jpg') no-repeat center center;
     width: auto;
@@ -202,6 +202,7 @@ a {
 }
 
 /* VitaminC page */
+
 /* vitamin C hero image styling  */
 #vitaminc-hero-image {
     background: url(../images/pexels-lukas-1414134.jpg) no-repeat center center;
@@ -210,42 +211,42 @@ a {
     height: 200px;
 }
 
-  /* vitaminc c description section styling */
-
-  .vitaminc-wrapper {
+/* vitaminc c main contet styling */
+.vitaminc-wrapper {
     display: grid;
     grid-row-gap: 20px;
     grid-column-gap: 20px;
-  }
-
-  .vitaminc-descr {
-    display: grid;
-    grid-row-gap: 20px;
-    grid-column-gap: 20px;
-  }
-  
-  .vitaminc-sources {
-    display: grid;
-    grid-row-gap: 20px;
-    grid-column-gap: 20px;
-  }
-  
-  .vitaminc-info {
-    display: grid;
-    grid-row-gap: 20px;
-    grid-column-gap: 20px;
-  }
-
-  #vitaminc-descr-container {
-    width: 200px;
-    height: 200px;
-    padding: 3px;
-    border-style: solid;
-    border-color: #ccc;
-    border-width: 1px;
-    border-radius: 50%;
-    margin: 0 auto;
 }
+
+.vitaminc-descr {
+    display: grid;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+    background-color: #fffafa;
+}
+
+.vitaminc-sources {
+    display: grid;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+    background-color: #fffafa;
+}
+
+.vitaminc-info {
+    display: grid;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+    background-color: #fffafa;
+}
+
+.vitaminc-shop {
+    display: grid;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+    background-color: #fffafa;
+}
+
+/* circle images on the vitamin c page */
 
 #vitaminc-descr-cover-bg {
     background: url('../images/pexels-photomix-company-96620.jpg') no-repeat center center;
@@ -255,84 +256,14 @@ a {
     border-radius: 50%;
 }
 
-/* vitaminC sources section styling */
 .vitaminc-wrapper a {
     text-align: center;
     font-style: italic;
     font-size: small;
 }
 
-/* #vitaminc-sources-graphic {
-    border-radius: 8px;
-    border: 1px solid #ddd;
-    padding: 5px;
-    width: 80%;
-    max-width: 564px;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-} */
-
-/* #vitaminc-video {
-    border-radius: 8px;
-    border: 1px solid #ddd;
-    padding: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
-    max-width: 564px;
-    height: auto;
-    display: block;
-    text-align: center;
-}
-
-#vitaminc-article {
-    border-radius: 8px;
-    border: 1px solid #ddd;
-    padding: 20px;
-    width: 80%;
-    max-width: 564px;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
-
-#vitaminc-book {
-    border-radius: 8px;
-    border: 1px solid #ddd;
-    padding: 20px;
-    width: 80%;
-    max-width: 564px;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-} */
-
-/* vitaminC shop section styling */
-
-.vitaminc-shop {
-    display: grid;
-    grid-row-gap: 20px;
-    grid-column-gap: 20px;
-  }
-
-/* #vitaminc-shop>h2 {
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-#vitaminc-shop img {
-    clear: both;
-    max-height: 100px;
-} */
-
 /* VitaminD page */
+
 /* vitamin D hero image styling  */
 #vitamind-hero-image {
     background: url(../images/pexels-garon-piceli-852793.jpg) no-repeat center center;
@@ -341,7 +272,41 @@ a {
     height: 200px;
 }
 
-/* vitaminD descr section styling */
+/* vitaminc c main contet styling */
+.vitamind-wrapper {
+    display: grid;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+}
+
+.vitamind-descr {
+    display: grid;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+    background-color: #fffafa;
+}
+
+.vitamind-sources {
+    display: grid;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+    background-color: #fffafa;
+}
+
+.vitamind-info {
+    display: grid;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+    background-color: #fffafa;
+}
+
+.vitamind-shop {
+    display: grid;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+    background-color: #fffafa;
+}
+
 #vitamind-descr-container {
     width: 200px;
     height: 200px;
@@ -353,6 +318,7 @@ a {
     margin: 0 auto;
 }
 
+/* circle images on the vitamin d page */
 #vitamind-descr-cover-bg {
     background: url('../images/pexels-anna-tarazevich-5935416.jpg') no-repeat center center;
     width: auto;
@@ -361,13 +327,13 @@ a {
     border-radius: 50%;
 }
 
-#vitamind-descr {
-    padding-top: 30px;
-    padding-bottom: 10px;
+.vitamind-wrapper a {
+    text-align: center;
+    font-style: italic;
+    font-size: small;
 }
 
-/* vitaminD sources section styling */
-#vitamind-sources > a {
+.vitamind-sources>a {
     text-align: center;
     font-style: italic;
     font-size: small;
@@ -385,64 +351,12 @@ a {
     margin-right: auto;
 }
 
-#vitamind-video {
-    border-radius: 8px;
-    border: 1px solid #ddd;
-    padding: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
-    max-width: 564px;
-    height: auto;
-    display: block;
-    text-align: center;
-}
-
-#vitamind-article {
-    border-radius: 8px;
-    border: 1px solid #ddd;
-    padding: 20px;
-    width: 80%;
-    max-width: 564px;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
-
-#vitamind-book {
-    border-radius: 8px;
-    border: 1px solid #ddd;
-    padding: 20px;
-    width: 80%;
-    max-width: 564px;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
-
-#vitamind-info img {
+.vitamind-info img {
     height: 200px;
 }
 
-/* vitaminD shop section styling */
-
-#vitamind-shop {
-    text-align: center;
-}
-
-#vitamind-shop>h2 {
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-#vitamind-shop img {
-    clear: both;
-    max-height: 100px;
+.vitamind-shop img {
+    max-height: 200px;
 }
 
 .column {
@@ -453,7 +367,6 @@ a {
 }
 
 /* footer styling */
-
 footer {
     clear: both;
     height: 150px;
@@ -502,10 +415,12 @@ hr.solid {
 }
 
 /* tablet view styling */
+
 @media screen and (min-width: 600px) {
 
     /* tablet logo and menu links */
-    #menu, #logo {
+    #menu,
+    #logo {
         line-height: 150px;
     }
 
@@ -523,7 +438,6 @@ hr.solid {
     }
 
     /* tablet hero image and cover text */
-
     #hero-image {
         height: 300px;
         width: 100%;
@@ -574,7 +488,8 @@ hr.solid {
 @media screen and (min-width: 1000px) {
 
     /* desktop logo and menu links */
-    #menu, #logo {
+    #menu,
+    #logo {
         line-height: 300px;
     }
 
@@ -596,7 +511,6 @@ hr.solid {
     }
 
     /* desktop hero image and cover text */
-
     #hero-image {
         height: 600px;
         width: 100%;
@@ -620,15 +534,14 @@ hr.solid {
     }
 
     /* index page main content desktop view */
-
     .vitamin-wrapper {
         display: grid;
         grid-template-columns: 500px 500px;
         grid-row: auto auto;
         grid-column-gap: 20px;
         grid-row-gap: 20px;
-        justify-content:center;
-      }
+        justify-content: center;
+    }
 
     .vitamin-wrapper-1 {
         display: grid;
@@ -636,11 +549,10 @@ hr.solid {
         grid-row: auto auto;
         grid-column-gap: 20px;
         grid-row-gap: 20px;
-        justify-content:center;
-      }
+        justify-content: center;
+    }
 
     /* vitaminc page desktop view */
-
     #vitaminc-hero-image {
         height: 600px;
         width: 100%;
@@ -653,31 +565,18 @@ hr.solid {
         grid-row: auto auto;
         grid-column-gap: 20px;
         grid-row-gap: 20px;
-        justify-content:center;
-      }
-
-    /* #vitaminc-video iframe {
-        width: auto;
-        height: auto;
-    } */
-
-    /* #vitaminc-article img {
-        height: 300px;
-    }
-
-    #vitaminc-book img {
-        height: 300px;
-    } */
-
-    #vitaminc-shop img {
-        max-height: 200px;
-    }
-
-    #vitaminc-shop img {
-        max-height: 200px;
+        justify-content: center;
     }
 
     /* vitamind page desktop view */
+    .vitamind-wrapper {
+        display: grid;
+        grid-template-columns: 1000px;
+        grid-row: auto auto;
+        grid-column-gap: 20px;
+        grid-row-gap: 20px;
+        justify-content: center;
+    }
 
     #vitamind-hero-image {
         height: 600px;
@@ -685,36 +584,4 @@ hr.solid {
         overflow: hidden;
     }
 
-    #vitamind-descr {
-        margin: 100px;
-    }
-
-    #vitamind-sources {
-        margin: 100px;
-    }
-
-    #vitamind-video iframe {
-        width: 560px;
-        height: 315px;
-    }
-
-    #vitamind-article img {
-        height: 300px;
-    }
-
-    #vitamind-book img {
-        height: 300px;
-    }
-
-    #vitamind-shop {
-        margin: 100px;
-    }
-
-    #vitamind-shop img {
-        max-height: 200px;
-    }
-
-    #vitamind-shop img {
-        max-height: 200px;
-    }
 }
