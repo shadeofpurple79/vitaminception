@@ -220,6 +220,7 @@ Vitamin D Page Responsinator Results
 - Vitamin D third product in mini shop, product image size is distorted
 - Sign up form in the footer is not aligned correctly
 - Images with white background don't appear well on the website's off-white background colour
+- The signup form doesn't capture the user's email address (not a bug but missing feature, requires database connection)
 
 
 ## Deployment
