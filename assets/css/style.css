@@ -246,6 +246,11 @@ a {
     background-color: #fffafa;
 }
 
+#vitaminc-sources-graphic {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* circle images on the vitamin c page */
 
 #vitaminc-descr-cover-bg {
@@ -260,6 +265,10 @@ a {
     text-align: center;
     font-style: italic;
     font-size: small;
+}
+
+.vitaminc-info iframe {
+    max-width: 100%;
 }
 
 /* VitaminD page */
@@ -355,7 +364,11 @@ a {
     height: 200px;
 }
 
+.vitamind-info iframe {
+    max-width: 100%;
+}
 .vitamind-shop img {
+    min-height: 200px;
     max-height: 200px;
 }
 
@@ -379,6 +392,7 @@ hr.solid {
     border-top: 3px solid #bbb;
 }
 
+/* Signup form */
 #signup h3 {
     text-align: center;
     font-size: 200%;
@@ -389,8 +403,9 @@ hr.solid {
     width: 40%;
     border: 2px solid #bbb;
     box-sizing: border-box;
-}
+} 
 
+/* Social media links */
 #social-networks {
     text-align: center;
     font-size: 150%;
