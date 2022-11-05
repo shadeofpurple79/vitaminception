@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: roboto condensed, sans-serif;
+    font-family: "roboto condensed", sans-serif;
     font-weight: 300;
     color: #2f4f4f;
     background-color: #fafafa;
@@ -79,7 +79,7 @@ a {
 /* hero image overlay text - not overlaid on mobile */
 #hero-text {
     font-size: 120%;
-    font-family: roboto condensed, sans-serif;
+    font-family: "roboto condensed", sans-serif;
     text-align: center;
     height: 75px;
     width: 100%;
@@ -463,7 +463,7 @@ hr.solid {
         border-radius: 8px;
         border: 1px solid #ddd;
         font-size: 150%;
-        font-family: roboto condensed, sans-serif;
+        font-family: "roboto condensed", sans-serif;
         height: 100px;
         width: 400px;
         background-color: rgba(236, 236, 236, 0.5);
@@ -536,7 +536,7 @@ hr.solid {
         border-radius: 8px;
         border: 1px solid #ddd;
         font-size: 150%;
-        font-family: roboto condensed, sans-serif;
+        font-family: "roboto condensed", sans-serif;
         height: 100px;
         width: 400px;
         background-color: rgba(236, 236, 236, 0.5);
@@ -552,7 +552,7 @@ hr.solid {
     .vitamin-wrapper {
         display: grid;
         grid-template-columns: 500px 500px;
-        grid-row: auto auto;
+        grid-row: auto / auto;
         grid-column-gap: 20px;
         grid-row-gap: 20px;
         justify-content: center;
@@ -561,7 +561,7 @@ hr.solid {
     .vitamin-wrapper-1 {
         display: grid;
         grid-template-columns: 1000px;
-        grid-row: auto auto;
+        grid-row: auto / auto;
         grid-column-gap: 20px;
         grid-row-gap: 20px;
         justify-content: center;
@@ -577,7 +577,7 @@ hr.solid {
     .vitaminc-wrapper {
         display: grid;
         grid-template-columns: 1000px;
-        grid-row: auto auto;
+        grid-row: auto / auto;
         grid-column-gap: 20px;
         grid-row-gap: 20px;
         justify-content: center;
@@ -587,7 +587,7 @@ hr.solid {
     .vitamind-wrapper {
         display: grid;
         grid-template-columns: 1000px;
-        grid-row: auto auto;
+        grid-row: auto / auto;
         grid-column-gap: 20px;
         grid-row-gap: 20px;
         justify-content: center;
