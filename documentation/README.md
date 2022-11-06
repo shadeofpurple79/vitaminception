@@ -215,12 +215,18 @@ Vitamin D Page Responsinator Results
 
 ### Unfixed Bugs
 
-- Broken text overlay on rotated landscape view on mobile screens 
-- Broken text overlay on Safari desktop view
-- Vitamin D third product in mini shop, product image size is distorted
-- Sign up form in the footer is not aligned correctly
-- Images with white background don't appear well on the website's off-white background colour
-- The signup form doesn't capture the user's email address (not a bug but missing feature, requires database connection)
+1. Broken text overlay on rotated landscape view on mobile screens 
+![Bug1](images/bug1.png)
+2. Broken text overlay on Safari desktop view
+![Bug2](images/bug2.png)
+3. Vitamin D third product in mini shop, product image size is distorted in mobile view
+![Bug3](images/bug3.png)
+4. Sign up form in the footer is not aligned correctly
+![Bug4](images/bug4.png)
+5. Images with white background don't appear well on the website's off-white background colour
+![Bug5a](images/bug5a.png)
+![Bug5b](images/bug5b.png)
+6. The signup form doesn't capture the user's email address (not a bug but missing feature, requires database connection)
 
 
 ## Deployment
