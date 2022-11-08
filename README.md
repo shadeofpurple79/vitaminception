@@ -93,13 +93,13 @@ Vitamin C page begins by describing this particular type of vitamin, a brief bac
 
 Vitamin C page refers to the following external links:
 
-- Natural Sources of Vitamin C Infographic, Harvard School of Public Health (https://www.hsph.harvard.edu/nutritionsource/vitamin-c)
-- Vitamin C - The Most COMPREHENSIVE Explanation video by Medicosis Perfectionalis (https://www.youtube.com/embed/CAN-Un51uqM)
-- Vitamin C in Disease Prevention and Cure article by Shailja Chambial, Shailendra Dwivedi and Praveen Sharma on National Library of Medicine (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3783921)
-- Vitamin C, The Real Story, book by Steve Hickey on World of Books (https://www.wob.com/en-gb/books/steve-hickey/vitamin-c-the-real-story/9781681628882)
-- Recommended Vitamin C in Liquid Form at Sainsburys (https://www.sainsburys.co.uk/gol-ui/product/zooki-vitamin-c-citrus-orange-flavour-sachet-15ml)
-- Recommended Vitamin C in Gummy Form at Dolphin Fitness (https://www.dolphinfitness.co.uk/en/nordic-naturals-vitamin-c-gummies-60-gummies/219874)
-- Recommended Vitamin C in Pill Form at Holand & Barrett (https://www.hollandandbarrett.com/shop/product/solgar-vitamin-c-1000mg-vegi-capsules-60001429)
+- [Natural Sources of Vitamin C Infographic, Harvard School of Public Health] (https://www.hsph.harvard.edu/nutritionsource/vitamin-c)
+- [Vitamin C - The Most COMPREHENSIVE Explanation video by Medicosis Perfectionalis] (https://www.youtube.com/embed/CAN-Un51uqM)
+- [Vitamin C in Disease Prevention and Cure article by Shailja Chambial, Shailendra Dwivedi and Praveen Sharma on National Library of Medicine] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3783921)
+- [Vitamin C, The Real Story, book by Steve Hickey on World of Books] (https://www.wob.com/en-gb/books/steve-hickey/vitamin-c-the-real-story/9781681628882)
+- [Recommended Vitamin C in Liquid Form at Sainsburys] (https://www.sainsburys.co.uk/gol-ui/product/zooki-vitamin-c-citrus-orange-flavour-sachet-15ml)
+- [Recommended Vitamin C in Gummy Form at Dolphin Fitness] (https://www.dolphinfitness.co.uk/en/nordic-naturals-vitamin-c-gummies-60-gummies/219874)
+- [Recommended Vitamin C in Pill Form at Holand & Barrett] (https://www.hollandandbarrett.com/shop/product/solgar-vitamin-c-1000mg-vegi-capsules-60001429)
 
 ### Vitamin D page
 
@@ -107,15 +107,15 @@ Vitamin D page follows the same format and begins by describing this particular 
 
 Vitamin D page refers to the following external links:
 
-- Vitamin D Science video by Dr John Campbell (https://www.youtube.com/embed/cv4iINxf4IM)
-- Recommended dietary intakes for vitamin D: where do they come from, what do they achieve and how can we meet them (https://onlinelibrary.wiley.com/doi/full/10.1111/jhn.12226)
-- The Vitamin D Cure, book by Dr James Dowd, on World of Books (https://www.wob.com/en-gb/books/james-dowd/vitamin-d-cure/9780470455753)
-- Recommended Vitamin D in Gummy Form at Holand & Barrett (https://www.hollandandbarrett.com/shop/product/bioglan-vitamin-d3-1000iu-vitagummies-60006837
+- [Vitamin D Science video by Dr John Campbell] (https://www.youtube.com/embed/cv4iINxf4IM)
+- [Recommended dietary intakes for vitamin D: where do they come from, what do they achieve and how can we meet them] (https://onlinelibrary.wiley.com/doi/full/10.1111/jhn.12226)
+- [The Vitamin D Cure, book by Dr James Dowd, on World of Books] (https://www.wob.com/en-gb/books/james-dowd/vitamin-d-cure/9780470455753)
+- [Recommended Vitamin D in Gummy Form at Holand & Barrett] (https://www.hollandandbarrett.com/shop/product/bioglan-vitamin-d3-1000iu-vitagummies-60006837
 Vitamin D Gummy Form) 
-- Recommended Vitamin D in Liquid Oil Form at Dolphin Fitness (https://www.dolphinfitness.co.uk/en/now-foods-liquid-vitamin-d-3-60-ml/134910)
-- Recommended Vitamin D in Softgel Form at Dolphin Fitness (https://www.dolphinfitness.co.uk/en/healthy-origins-vitamin-d-3-2400-iu-360-softgels/224351)
+- [Recommended Vitamin D in Liquid Oil Form at Dolphin Fitness] (https://www.dolphinfitness.co.uk/en/now-foods-liquid-vitamin-d-3-60-ml/134910)
+- [Recommended Vitamin D in Softgel Form at Dolphin Fitness] (https://www.dolphinfitness.co.uk/en/healthy-origins-vitamin-d-3-2400-iu-360-softgels/224351)
 
-### Future Features 
+## Future Features 
 
 There is a huge potential to expand this website to become a trustworthy source for the audience, as well as make it a commercially viable business. Future features could include but are not limited to:
 
@@ -123,6 +123,16 @@ There is a huge potential to expand this website to become a trustworthy source 
 - Add a database link to connect the sign up form to, and store the users' email addresses which could be used for email marketing purposes
 - Add a GDPR policy to comply with the regulations when collecting users' data
 - Convert the mobile navigation menu into a burger menu using javascript
+
+## Tools & Technologies Used
+
+- HTML: used for the markup and content
+- CSS: used for the layout, design, and responsiveness
+- [Git](https://git-scm.com/): used for version control
+- [GitHub](https://github.com/): used for securing code online
+- [GitHub Pages](https://pages.github.com/): used for deployment of the live site
+- [Gitpod](https://gitpod.io/): used as cloud-based IDE for development
+- [Canva](https://www.canva.com/): used for designing a unique logo and branding
 
 ## Testing
 
@@ -227,14 +237,24 @@ Vitamin D Page Responsinator Results
 ![Bug5b](documentation/images/bug5b.png)
 6. The signup form doesn't capture the user's email address (not a bug but missing feature, requires database connection)
 
-
 ## Deployment
 
-The site was deployed to GitHub pages. The steps to deploy are as follows:
-- In the GitHub repository, navigate to the Settings tab
-- From the source section drop-down menu, select the Master Branch
-- Once the master branch has been selected, the page is automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-- The live link can be found here - https://shadeofpurple79.github.io/vitaminception/ 
+The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the [GitHub repository](https://github.com/shadeofpurple79/vitaminception), navigate to the Settings tab 
+  - From the source section drop-down menu, select the **Main** Branch, then click "Save".
+  - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found [here](https://shadeofpurple79.github.io/vitaminception)
+
+### Local Deployment
+
+In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository:
+
+- `git clone https://github.com/shadeofpurple79/vitaminception.git`
+
+Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/shadeofpurple79/vitaminception)
 
 ## Credits
 
