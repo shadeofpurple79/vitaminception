@@ -4,30 +4,30 @@
 
 ## Summary
 
-Vitaminception is a guide for the big and complex worls of vitamins and supplements. A quick Google or Amazon search vitamins results in millions and billions of search results. There are hundreds of vitamin brands in the market and the product ingredients label is a mystery. If that wasn't enough, the advice from medical professionals, health coaches, nutritionists and of course the media are confusing and conflicting. Vitaminception takes this back to the beginning and explains the benefits of vitamins, the natural sources to obtain them and if necessary, the recommended supplements to take, in simple, plain terms.
+Vitaminception is a guide for the big and complex world of vitamins and supplements. A quick search on Amazon or Google for vitamins, shows a vast number of search results. There are hundreds of vitamin brands in the market and the product ingredients label is a mystery. If that wasn't enough, the advice from medical professionals, health coaches, nutritionists and of course the media are confusing and conflicting. Vitaminception takes this back to the beginning and explains the benefits of vitamins, the natural sources to obtain them, and if necessary, the recommended supplements to take, in simple, plain terms.
 
 According to datareportal.com, 92& of global internet users aged 16 to 64 go online via a mobile phone. For this reason, Vitaminception has been designed and developed with a mobile-first approach. Alternative views for tablets and desktops have also been provided for such users. 
 
 Mobile View 
 
 
-![Mobile View Screenshot](images/mobile-home.png)
+![Mobile View Screenshot](documentation/images/mobile-home.png)
 
 Tablet View 
 
 
-![Tablet View Screenshot](images/tablet-home.png)
+![Tablet View Screenshot](documentation/images/tablet-home.png)
 
 Desktop View 
 
 
-![Desktop View Screenshot](images/desktop-home.png)
+![Desktop View Screenshot](documentation/images/desktop-home.png)
 
 ## Features
 
 Vitaminception explains each vitamin individually in very simple terms. Each vitamin type has its own unique page, with a short description on what the vitamin is for, how it's used by the body, what the benefits are, and the consequences of being deficient in this vitamin. Each vitamin page then goes on to cite external sources, cherry picked for the audience of this website; a short video, a scientific or medical research article, and a book. 
 
-The final section of each vitamin page is a small shop area where a selection of only three vitamin products selected by the Vitaminception authors. The user will be able to click on these links to directly visit a shopping website and complete their purchase. 
+The final section of each vitamin page is a small shop area where a selection of only three vitamin products are shown, selected by the Vitaminception authors. The user can click on these links to directly visit a shopping website and complete their purchase. 
 
 Vitaminception business will have special commercial agreements with the selected three suppliers where the business will earn a commission on each purchase made in this way. 
 
@@ -37,44 +37,44 @@ Navigation bar appears on all pages, at the top, and includes a logo, links to a
 
 Navigation Mobile View
 
-![Navigation Mobile View](images/mobile-nav.png)
+![Navigation Mobile View](documentation/images/mobile-nav.png)
 
 Navigation Tablet View 
 
-![Navigation Tablet View](images/tablet-nav.png)
+![Navigation Tablet View](documentation/images/tablet-nav.png)
 
 Navigation Desktop View 
 
-![Navigation Desktop View](images/desktop-nav.png)
+![Navigation Desktop View](documentation/images/desktop-nav.png)
 
 ### Footer
 
-Footer includes a social media link to Instagram to invite the users to follow Vitaminception activities. A simple sign up form has also been added to the footer to invite the user to provide their email addresses in order to receive news and updates from Vitaminception.
+Footer includes a social media link to Instagram to invite the users to follow Vitaminception activities. A simple sign up form has also been added to the footer to invite the user to provide their email address in order to receive news and updates from Vitaminception.
 
 Footer Mobile View
 
 
-![Footer Mobile View](images/mobile-footer.png)
+![Footer Mobile View](documentation/images/mobile-footer.png)
 
 Footer Tablet View
 
 
-![Footer Tablet View](images/tablet-footer.png)
+![Footer Tablet View](documentation/images/tablet-footer.png)
 
 Footer Desktop View
 
 
-![Footer Desktop View](images/desktop-footer.png)
+![Footer Desktop View](documentation/images/desktop-footer.png)
 
 ### Index Page
 
-the index page gives an overview of the purpose and objectives of the website for the audience. It introduces the common questions and issues for the average vitamin user, such as which vitamin to use, why vitamins are needed, what the body does with vitamins, and the natural sources of foods to obtain them from. 
+the index page gives an overview of the purpose and objectives of the website for the audience. It introduces the common questions and issues for the average vitamin user, such as which vitamin to use, why vitamins are needed, what the body does with vitamins, and how we, the homo sapiens, have lost through evolution, the ability to make certain vitamins in our body. 
 
-![Homepage Main Content](images/index-main.png)
+![Homepage Main Content](documentation/images/index-main.png)
 
 The index page guides the users to the rest of the website where detailed information can be found on each vitamin type. 
 
-![Homepage Lead to Other Pages](images/index-begin.png)
+![Homepage Lead to Other Pages](documentation/images/index-begin.png)
 
 ### Vitamin Detail Pages
 
@@ -103,17 +103,17 @@ Vitamin C page refers to the following external links:
 
 ### Vitamin D page
 
-Vitamin D page follows the same format and begins by describing this particular type of vitamin, a brief background, it provides a list of natural sources of the vitamin, but this time specifically for vegans as this is a challenging area for this special diets, followed by an information section directing the user to external links to watch a video, to read a scientific article and to read or buy a book on the topic. The mini shop section offers vitamin c products in three different forms: gummy, liquid and gel capsules. 
+Vitamin D page follows the same format and begins by describing this particular type of vitamin, a brief background, it provides a list of natural sources of the vitamin, but this time specifically for vegans as this is a challenging area for this special diet, followed by an information section directing the user to external links to watch a video, to read a scientific article and to read or buy a book on the topic. The mini shop section offers vitamin c products in three different forms: gummy, liquid and gel capsules. 
 
 Vitamin D page refers to the following external links:
 
 - Vitamin D Science video by Dr John Campbell (https://www.youtube.com/embed/cv4iINxf4IM)
 - Recommended dietary intakes for vitamin D: where do they come from, what do they achieve and how can we meet them (https://onlinelibrary.wiley.com/doi/full/10.1111/jhn.12226)
 - The Vitamin D Cure, book by Dr James Dowd, on World of Books (https://www.wob.com/en-gb/books/james-dowd/vitamin-d-cure/9780470455753)
-- Recommended Vitamin C in Gummy Form at Holand & Barrett (https://www.hollandandbarrett.com/shop/product/bioglan-vitamin-d3-1000iu-vitagummies-60006837
+- Recommended Vitamin D in Gummy Form at Holand & Barrett (https://www.hollandandbarrett.com/shop/product/bioglan-vitamin-d3-1000iu-vitagummies-60006837
 Vitamin D Gummy Form) 
-- Recommended Vitamin C in Liquid Oil Form at Dolphin Fitness (https://www.dolphinfitness.co.uk/en/now-foods-liquid-vitamin-d-3-60-ml/134910)
-- Recommended Vitamin C in Softgel Form at Dolphin Fitness (https://www.dolphinfitness.co.uk/en/healthy-origins-vitamin-d-3-2400-iu-360-softgels/224351)
+- Recommended Vitamin D in Liquid Oil Form at Dolphin Fitness (https://www.dolphinfitness.co.uk/en/now-foods-liquid-vitamin-d-3-60-ml/134910)
+- Recommended Vitamin D in Softgel Form at Dolphin Fitness (https://www.dolphinfitness.co.uk/en/healthy-origins-vitamin-d-3-2400-iu-360-softgels/224351)
 
 ### Future Features 
 
@@ -131,23 +131,22 @@ The website has been tested on Chrome, Safari and Firefox latest versions. There
 Chrome
 
 
-![Chrome](images/chrome.png)
+![Chrome](documentation/images/chrome.png)
 
 Firefox
 
 
-![Firefox](images/firefox.png)
+![Firefox](documentation/images/firefox.png)
 
 Safari
 
 
-![Safari](images/safari.png)
+![Safari](documentation/images/safari.png)
 
 
-It has also been tested on iphone standard and iphone plus screens, as well as laptop screen and a desktop device. 
-Responsinator validator showed a broken text overlay on rotated landscpae view on mobile screens which has not been fixed in this version. 
+Responsinator validator showed a broken text overlay on rotated landscape view on mobile screens which has not been fixed in this version. 
 
-![Screenshot](image path here)
+![Responsinator](documentation/images/bug1.png)
 
 ### Validator Testing
 
@@ -157,17 +156,17 @@ No errors were returned when passing through the official W3C validator
 Index Page HTML Validator Results
 
 
-![Index Page HTML Validator Results](images/index-html-validator.png)
+![Index Page HTML Validator Results](documentation/images/index-html-validator.png)
 
 Vitamin C Page HTML Validator Results
 
 
-![Vitamin C Page HTML Validator Results](images/vitaminc-html-validator.png)
+![Vitamin C Page HTML Validator Results](documentation/images/vitaminc-html-validator.png)
 
 Vitamin D Page HTML Validator Results
 
 
-![Vitamin D Page HTML Validator Results](images/vitamind-html-validator.png)
+![Vitamin D Page HTML Validator Results](documentation/images/vitamind-html-validator.png)
 
 
 
@@ -177,55 +176,55 @@ No errors were found when passing through the official (Jigsaw) validator
 Index Page CSS Validator Results
 
 
-![Index Page CSS Validator Results](images/index-css-validator-report.png)
+![Index Page CSS Validator Results](documentation/images/index-css-validator-report.png)
 
 Vitamin C Page CSS Validator Results
 
 
-![Vitamin C Page CSS Validator Results](images/vitaminc-css-validator-report.png)
+![Vitamin C Page CSS Validator Results](documentation/images/vitaminc-css-validator-report.png)
 
 Vitamin D Page CSS Validator Results
 
 
-![Vitamin D Page CSS Validator Results](images/vitamind-css-validator-report.png)
+![Vitamin D Page CSS Validator Results](documentation/images/vitamind-css-validator-report.png)
 
 
 #### Responsinator Validator 
-Mobile and tablet views appear to be without any issues on portatrait view, however, there are fixes to be made in the landscape view, which have been noted in the known issues list and will be fixed in an upcoming release. 
+Mobile and tablet views appear to be without any issues on portrait view, however, there are fixes to be made in the landscape view, which have been noted in the known issues list and will be fixed in an upcoming release. 
 
 Index Page Responsinator Results
 
 
-![Index Page Responsinator Results](images/index-responsinator-screenshot.png)
+![Index Page Responsinator Results](documentation/images/index-responsinator-screenshot.png)
 
 
 Vitamin C Page Responsinator Results
 
 
-![Vitamin C Page Responsinator Results](images/vitc-responsinator-screenshot.png)
+![Vitamin C Page Responsinator Results](documentation/images/vitc-responsinator-screenshot.png)
 
 
 
 Vitamin D Page Responsinator Results
 
 
-![Vitamin D Page Responsinator Results](images/vitd-responsinator-screensho- t.png)
+![Vitamin D Page Responsinator Results](documentation/images/vitd-responsinator-screenshot.png)
 
 
 
 ### Unfixed Bugs
 
 1. Broken text overlay on rotated landscape view on mobile screens 
-![Bug1](images/bug1.png)
+![Bug1](documentation/images/bug1.png)
 2. Broken text overlay on Safari desktop view
-![Bug2](images/bug2.png)
+![Bug2](documentation/images/bug2.png)
 3. Vitamin D third product in mini shop, product image size is distorted in mobile view
-![Bug3](images/bug3.png)
+![Bug3](documentation/images/bug3.png)
 4. Sign up form in the footer is not aligned correctly
-![Bug4](images/bug4.png)
+![Bug4](documentation/images/bug4.png)
 5. Images with white background don't appear well on the website's off-white background colour
-![Bug5a](images/bug5a.png)
-![Bug5b](images/bug5b.png)
+![Bug5a](documentation/images/bug5a.png)
+![Bug5b](documentation/images/bug5b.png)
 6. The signup form doesn't capture the user's email address (not a bug but missing feature, requires database connection)
 
 
@@ -260,8 +259,8 @@ Shop content and recommended product links are sourced from trusted sellers of v
 
 ### Media
 
-The photography has been sourced from Pexel.com website which is a free stock photograpy  website. The terms of use requires the photograph filenames to be kept the same in order to acknowledge the photographer. 
+The photography has been sourced from Pexels.com which is a free stock photograpy website. The terms of use requires the photograph filenames to be kept the same in order to acknowledge the photographer. 
 - https://www.pexels.com/
 
-The videos used on the website have been taken from Youtube. Special attention has been taken to ensure that the resources are qualified medical profesisonals. 
+The videos used on the website have been taken from Youtube. Special attention has been given to ensure that the resources are qualified medical professionals. 
 - https://www.youtube.com/
